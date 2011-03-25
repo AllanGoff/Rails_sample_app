@@ -4,6 +4,12 @@ This is the sample application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
+git@heroku.com:falling-sword-616.git
+http://falling-sword-616.heroku.com/
+
+CRUD: Create, Read, Update, Delete.
+REST: GET, POST, PUT, DELETE.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
