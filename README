@@ -10,6 +10,11 @@ http://falling-sword-616.heroku.com/
 CRUD: Create, Read, Update, Delete.
 REST: GET, POST, PUT, DELETE.
 
+ch-3:
+(Note: this will create an Autotest configuration for the sample application only; 
+if you want to share this Autotest configuration with other Rails or Ruby projects, 
+you should create the .autotest file in your home directory instead:
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
