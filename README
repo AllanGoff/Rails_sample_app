@@ -15,6 +15,31 @@ ch-3:
 if you want to share this Autotest configuration with other Rails or Ruby projects, 
 you should create the .autotest file in your home directory instead:
 
+ch-4:
+
+ch-5:
+
+ch-6:
+
+--------------------------------------------------------------------------------
+Ignorance Map:
+	Ruby
+	Gems
+	Rails
+	Git
+	GitHub
+	Heroku
+	RSpec (test framework)
+	HTML
+	JavaScript
+	SQLite
+	rake
+	MVC
+	Growl
+	Bundle
+	Rubular
+--------------------------------------------------------------------------------
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
